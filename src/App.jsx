@@ -193,13 +193,13 @@ function App() {
               <div className="row">
                 <div className="col-10">
                   {/* <a onClick={() => navigate("/detailWorks")}> */}
-                    <button
-                      className="btn btn-warning"
-                      type="submit"
-                      style={{ borderRadius: 50 }}
-                    >
-                      Share your creation
-                    </button>
+                  <button
+                    className="btn btn-warning"
+                    type="submit"
+                    style={{ borderRadius: 50 }}
+                  >
+                    Share your creation
+                  </button>
                   {/* </a> */}
 
                   <button
@@ -361,7 +361,7 @@ function App() {
                   <div className="card gb bg-dark">
                     <a href="DetailWork.html" className="teks">
                       <img
-                        src="./src/2.png"
+                        src="https://preview.redd.it/i1ptbqn05kh81.png?width=2560&format=png&auto=webp&s=845fc6f61b5e1c0185e623047336567ab08da39b"
                         className="card-img-top gambar"
                         alt="..."
                       />
@@ -373,7 +373,7 @@ function App() {
                   <div className="card gb bg-dark">
                     <a href="DetailWork.html" className="teks">
                       <img
-                        src="./src/2.png"
+                        src="https://preview.redd.it/i1ptbqn05kh81.png?width=2560&format=png&auto=webp&s=845fc6f61b5e1c0185e623047336567ab08da39b"
                         className="card-img-top gambar"
                         alt="..."
                       />
@@ -385,7 +385,7 @@ function App() {
                   <div className="card gb bg-dark">
                     <a href="DetailWork.html" className="teks">
                       <img
-                        src="./src/2.png"
+                        src="https://preview.redd.it/i1ptbqn05kh81.png?width=2560&format=png&auto=webp&s=845fc6f61b5e1c0185e623047336567ab08da39b"
                         className="card-img-top gambar"
                         alt="..."
                       />
@@ -397,7 +397,7 @@ function App() {
                   <div className="card gb bg-dark">
                     <a href="DetailWork.html" className="teks">
                       <img
-                        src="./src/2.png"
+                        src="https://preview.redd.it/i1ptbqn05kh81.png?width=2560&format=png&auto=webp&s=845fc6f61b5e1c0185e623047336567ab08da39b"
                         className="card-img-top gambar"
                         alt="..."
                       />
@@ -409,43 +409,7 @@ function App() {
                   <div className="card gb bg-dark">
                     <a href="DetailWork.html" className="teks">
                       <img
-                        src="./src/2.png"
-                        className="card-img-top gambar"
-                        alt="..."
-                      />
-                    </a>
-                  </div>
-                </div>
-
-                <div className="col">
-                  <div className="card gb bg-dark">
-                    <a href="DetailWork.html" className="teks">
-                      <img
-                        src="./src/2.png"
-                        className="card-img-top gambar"
-                        alt="..."
-                      />
-                    </a>
-                  </div>
-                </div>
-
-                <div className="col">
-                  <div className="card gb bg-dark">
-                    <a href="DetailWork.html" className="teks">
-                      <img
-                        src="./src/2.png"
-                        className="card-img-top gambar"
-                        alt="..."
-                      />
-                    </a>
-                  </div>
-                </div>
-
-                <div className="col">
-                  <div className="card gb bg-dark">
-                    <a href="DetailWork.html" className="teks">
-                      <img
-                        src="./src/2.png"
+                        src="https://preview.redd.it/i1ptbqn05kh81.png?width=2560&format=png&auto=webp&s=845fc6f61b5e1c0185e623047336567ab08da39b"
                         className="card-img-top gambar"
                         alt="..."
                       />
