@@ -1,0 +1,134 @@
+body {
+    background-color: #121212;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+/* .dark {
+    background-color: #121212;
+    color: white;
+  } */
+
+.gambar {
+    border-radius: 15px;
+}
+
+.kotakctw {
+
+    background: linear-gradient(180deg, #404040 8.82%, #282828 84.51%);
+    border-radius: 25px;
+    color: white;
+    /* padding: 1rem;
+    margin: 50vh;
+    margin: 50vw; */
+}
+
+.kotakComment {
+
+    background: linear-gradient(180deg, white 8.82%, white 84.51%);
+    border-radius: 25px;
+    color: white;
+}
+
+.footer {
+    background: linear-gradient(180deg, #404040 8.82%, #282828 84.51%);
+    color: white;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    width: 100%;
+    height: auto;
+    background-color: #121212;
+    background: #121212;
+    opacity: 0.75;
+}
+
+
+.my-carousel {
+    position: absolute;
+    top: 0;
+}
+
+.my-navbar {
+    /* position: absolute; */
+    top: 30px;
+    width: 100%;
+    z-index: 999;
+    background: none;
+    border: 0;
+    border-radius: 0;
+    /* pad: 1rem 7%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; */
+}
+
+.my-logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: white;
+}
+
+
+
+.my-logo hr {
+    border: none;
+    border-top: 5px solid #FFC107;
+    margin: -10px 10%;
+}
+
+.my-burgMenu hr {
+    border: none;
+    border-top: 3px solid #181818;
+    margin: 0;
+}
+
+.my-hover {
+    color: white;
+}
+
+.my-hover:hover {
+    color: #FFC107;
+
+}
+
+
+
+.mybutton {
+    border-radius: 25px;
+    padding: 10px 20px 10px 20px;
+}
+
+hr {
+    border: none;
+    border-top: 3px solid #000;
+    /* margin: 200px 20px; margin atas dan bawah garis */
+}
+
+.hr-white {
+    border: none;
+    border-top: 4px solid white;
+    /* margin: 200px 20px; margin atas dan bawah garis */
+}
+
+.teks {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+
+}
+
+.ul-sort {
+    list-style-type: none;
+    display: flex;
+}
+
+.li-sort {
+    padding: 10px;
+}
